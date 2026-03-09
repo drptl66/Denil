@@ -1,3 +1,3 @@
 # Denil
 This is my first repo.<br>
-Author:draculla 
+Author:draculla (king)
